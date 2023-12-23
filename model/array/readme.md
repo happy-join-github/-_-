@@ -31,7 +31,8 @@ def find_value(nums,value):
 >
 > 假设数组arr为arr=[1,4,5,2,3,6] 想在元素5前面插入一个元素0
 >
-> ![](https://github.com/happy-join-github/-_-/tree/main/model/array/images)
+> ![](https://github.com/happy-join-github/-_-/blob/main/model/array/images/inset.png)
+> 需要将添加位置之后的元素都向后移动一位，所以时间复杂度为O(N)
 
 矩阵的操作
 
